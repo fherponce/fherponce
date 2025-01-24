@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/fherponce/fherponce/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" width="800"/>
+</div>
+
 ## Hello my name is Fernanda Ponce👋
 ✈️ I have a Bachelor's Degree in Gastronomy, and more than 10 years of professional experience in customer service, hospitality, and staff training, however I wanted a change and looking to challenge myself I decided for a switch to technology. 
 
