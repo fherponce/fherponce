@@ -6,6 +6,7 @@
 🔭 I’m currently looking for a job as a data analyst, so allow me to help with your company analysis taking advantage of my people skills. 
 
 Find me at:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Ponce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white).](https://www.linkedin.com/in/cynthia-fernanda-ponce-escalante)
 
 <!--
