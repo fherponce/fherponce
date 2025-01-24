@@ -1,7 +1,13 @@
-## Hello 👋
-🔭 I’m currently looking for a job as a data analyst, recently graduated from a TripleTen Bootcamp. 
+## Hello my name is Fernanda Ponce👋
+✈️ I have a Bachelor's Degree in Gastronomy, and more than 10 years of professional experience in customer service, hospitality, and staff training, however I wanted a change and looking to challenge myself I decided for a switch to technology. 
 
-✈️ I have more than 10 years of professional experience in customer service, hospitality, and staff training, so allow me to help with your company analysis taking advantage of my people skills. 
+💻 Recently I graduated from a bootcamp of Data Analysys with Tripleten. 
+
+🔭 I’m currently looking for a job as a data analyst, so allow me to help with your company analysis taking advantage of my people skills. 
+
+Find me at:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda_Ponce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010).](www.linkedin.com/in/cynthia-fernanda-ponce-escalante)
+
 <!--
 **fherponce/fherponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
