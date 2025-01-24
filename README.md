@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello 👋
+🔭 I’m currently looking for a job as a data analyst, recently graduated from a TripleTen Bootcamp. 
 
+✈️ I have more than 10 years of professional experience in customer service, hospitality, and staff training, so allow me to help with your company analysis taking advantage of my people skills. 
 <!--
 **fherponce/fherponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
